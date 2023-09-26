@@ -1,0 +1,31 @@
+#COMMON
+
+INTERNAL_SERVER_ERROR = "Internal Server Error"
+BAD_REQUEST = "Bad Request (serializer not valid)"
+USER_LOGIN = "User login succesful"
+INVALID_LOGIN = "Invalid login credentials"
+ACCESS_TOKEN_EXPIRED = "Token expired"
+TOKEN_INVALID = "Token is invalid"
+AUTHENTICATION_INVALID = "Authentication credential invalid"
+PASSWORD_INVALID = "Password incorrect"
+REFRESH_TOKEN_NOT_FOUND = "Refresh token expired"
+ACCESS_TOKEN_GENERATED = "Access token generated succesfully"
+DECODE_ERROR = "Header string manipulated"
+NAME_ERROR = "Name Error"
+ATTRIBUTE_ERROR = "Attribute Error"
+KEY_ERROR = "Key Error"
+OPERATIONAL_ERROR = "Operational Error"
+UNBOUND_LOCAL_ERROR = "Unbound Local Error - Variable referenced before assignment"
+PERMISSION_DENIED = "You do not have permission to perform this action"
+ACCESS_DENIED = "Access Denied"
+DATA_AVAILABLE = "Data Available"
+NO_SUCH_DATAPOINT = "No Such Data Point Available"
+ENTER_DATAPOINT = "Please Enter Data Point"
+VERSION_NOT_SUPPORTED = "This version is not supported"
+VALIDATION_FAILED = 'Some Validations have Failed'
+UNKNOWN_COLUMN = 'Unknow Column in Field List'
+DUPLICATE_KEY = 'Email or mobile Already Exists'
+RESET_TOKEN_INVALID = "Password reset key not found or none"
+DATA_FOUND = "Data Found"
+DATA_AVAILABLE = "Data Found"
+DATA_NOT_AVAILABLE = "No Data Found"
