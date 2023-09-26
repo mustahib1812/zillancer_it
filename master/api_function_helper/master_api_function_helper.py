@@ -29,7 +29,7 @@ def fetch_masslm_helper(self, request):
 
         # Getting query params
 
-        id = request.query_params.get('crm_id')
+        id = request.query_params.get('id')
         start_page = (page-1)*limit
         end_page = start_page+limit
 
